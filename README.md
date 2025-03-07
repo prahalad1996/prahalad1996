@@ -16,7 +16,7 @@
 
 🌱 **Currently Learning:** Advanced Node.js, TypeScript, Machine Learning & Growth Hacking.
 💡 **Looking to Collaborate:** AI-driven applications, cutting-edge web solutions & innovative startups.
-📬 **Reach Me At:** [your email] | [LinkedIn Profile]
+📬 **Reach Me At:** priyanshvanjari@outlook.com | www.linkedin.com/in/priyansh-vanjari
 😄 **Pronouns:** He/Him
 ⚡ **Fun Fact:** Built a React-Node.js game that turned into a full-fledged hackathon project!
 
