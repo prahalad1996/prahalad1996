@@ -20,7 +20,7 @@
 📬 **Reach Me At:** priyanshvanjari@outlook.com | www.linkedin.com/in/priyansh-vanjari
 
 😄 **Pronouns:** He/Him
-⚡ **Fun Fact:** Built a React-Node.js game that turned into a full-fledged hackathon project!
+
 
 </--
 
