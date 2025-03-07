@@ -22,7 +22,7 @@
 😄 **Pronouns:** He/Him
 ⚡ **Fun Fact:** Built a React-Node.js game that turned into a full-fledged hackathon project!
 
----
+</--
 
 ## 🌍 **Connect with Me:**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](#) 
@@ -57,7 +57,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshvanjari&theme=dracula&hide_border=false" alt="GitHub Activity Graph">
 </p>
 
----
+-->
 
 🌟 Passionate about **Technology**, **Innovation**, and **Building the Future**! Let’s create something **extraordinary** together! 🚀
 
